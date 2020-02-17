@@ -1,0 +1,15 @@
+.btn-pink{
+	background-color: #c06c84;
+	color: white;
+	text-decoration: none;
+	padding: 10px 26px;
+	border-radius: 50px;
+	box-shadow: 6px 10px 20px rgb(0,0,0,0.2);
+	font-family: 'Amatic SC', cursive;
+	font-size: 21px;
+	transition: .5s;
+	letter-spacing: 3px;
+}
+.btn-pink:hover{
+	background-color: pink;
+}
